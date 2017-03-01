@@ -1,12 +1,14 @@
 # iview-country-select
 
+[![npm version](https://badge.fury.io/js/iview-country-select.svg)](https://badge.fury.io/js/iview-country-select)
+
 > A iView component to select countries.
 
 **this component only support Vue 1 and iView 1 currently**
 
 ## Screenshot
 
-![]()
+![screenshot](https://github.com/rijn/iview-country-select/raw/master/screenshot.png)
 
 ## Use in iView Project
 
