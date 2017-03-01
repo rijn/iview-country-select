@@ -15,7 +15,7 @@ module.exports = {
   },
   resolve: {
     root: [__dirname],
-    modulesDirectories: [ "lib" ]
+    modulesDirectories: []
   },
   plugins: [
     new webpack.optimize.DedupePlugin(),
