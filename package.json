@@ -15,7 +15,6 @@
   "bugs": {
     "url": "https://github.com/rijn/iview-country-select/issues"
   },
-  "main": "dist/iview-country-select.min.js",
   "configs": {
     "directories": {
       "dist": "dist",
@@ -27,6 +26,7 @@
     "lint": "eslint --ext .js,.vue src",
     "build": "eslint --ext .js,.vue src && gulp build"
   },
+  "main": "./src/iview-country-select/index.js",
   "dependencies": {},
   "devDependencies": {
     "babel-core": "^6.0.0",
